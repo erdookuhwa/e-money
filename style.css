@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    min-height: 100vh;
+    background-color: lightyellow;
+    margin: 0;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.App {
+    margin-bottom: 30px;
+}
+
+.input {
+    border: 1px solid #333;
+    border-radius: 0.3em;
+    padding: .25rem;
+    width: 7em;
+}
+
+.equals {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.select {
+    margin-left: .5rem;
+    
+}
